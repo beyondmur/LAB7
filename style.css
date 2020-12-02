@@ -1,0 +1,52 @@
+body{
+    font-family: "Roboto Thin";
+    margin: 0;
+    background-image: url("kek.jpg");
+}
+
+button{
+    position: relative;
+    left: 50%;
+    display: flex;
+    margin-top: 30%;
+    text-align: center;
+    transform: translate(-50%, 0);
+    font-size: medium;
+
+}
+
+.modal{
+    display: none;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+    overflow: auto;
+}
+
+.content{
+    width: 300px;
+    border-radius: 5px ;
+    background: aliceblue;
+    margin: 100px auto;
+    height: 50px;
+    padding: 5px 8px;
+}
+
+.info{
+    justify-content: center;
+    display: flex;
+    font-size: 15px;
+}
+
+.close_modal{
+    cursor: pointer;
+    font-size: 20px;
+    float: right;
+}
+
+
+
