@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7065fd82-3cb4-4b7b-bc5a-5521adf4993e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../LAB8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,9 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -25,7 +23,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../LAB8" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="PhpDebugGeneral" listening_started="true" />
@@ -35,16 +33,18 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -56,6 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606929421505</updated>
       <workItem from="1606929424660" duration="7783000" />
+      <workItem from="1606938122750" duration="164000" />
     </task>
     <task id="LOCAL-00001" summary="кек">
       <created>1606937265342</created>
@@ -64,29 +65,44 @@
       <option name="project" value="LOCAL" />
       <updated>1606937265343</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="кек">
+      <created>1606938170754</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606938170755</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="кек" />
     <option name="LAST_COMMIT_MESSAGE" value="кек" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="449" y="265" key="#Notifications" timestamp="1606938257562">
+      <screen x="0" y="25" width="1440" height="825" />
+    </state>
+    <state x="449" y="265" key="#Notifications/0.25.1440.825@0.25.1440.825" timestamp="1606938257562" />
     <state x="408" y="179" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1606937810491">
       <screen x="0" y="25" width="1440" height="825" />
     </state>
     <state x="408" y="179" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.25.1440.825@0.25.1440.825" timestamp="1606937810491" />
-    <state x="307" y="41" key="CommitChangelistDialog2" timestamp="1606937264362">
+    <state x="307" y="25" key="CommitChangelistDialog2" timestamp="1606938170041">
       <screen x="0" y="25" width="1440" height="825" />
     </state>
-    <state x="307" y="41" key="CommitChangelistDialog2/0.25.1440.825@0.25.1440.825" timestamp="1606937264362" />
-    <state x="229" y="70" key="SettingsEditor" timestamp="1606937851899">
+    <state x="307" y="25" key="CommitChangelistDialog2/0.25.1440.825@0.25.1440.825" timestamp="1606938170041" />
+    <state x="229" y="70" key="SettingsEditor" timestamp="1606938289369">
       <screen x="0" y="25" width="1440" height="825" />
     </state>
-    <state x="229" y="70" key="SettingsEditor/0.25.1440.825@0.25.1440.825" timestamp="1606937851899" />
+    <state x="229" y="70" key="SettingsEditor/0.25.1440.825@0.25.1440.825" timestamp="1606938289369" />
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1606938195558">
+      <screen x="0" y="25" width="1440" height="825" />
+    </state>
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.25.1440.825@0.25.1440.825" timestamp="1606938195558" />
     <state x="505" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606937117120">
       <screen x="0" y="25" width="1440" height="825" />
     </state>
